@@ -1,16 +1,16 @@
 :root {
   /* Brand Colors */
-  --color-primary: #222;
+  --color-primary: rgb(51, 51, 51);
   --color-secondary: #2f5bc2;
 
   /* Background Colors */
-  --color-bg: #fff;
+  --color-bg: rgba(241, 241, 241, 0.919);
   --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: rgb(174, 182, 225);
+  --color-bg-accent: rgba(174, 225, 193, 0.582);
   --color-bg-hover: #f3f4f6cc;
 
   /* Text and Border Colors */
-  --color-text: #222;
+  --color-text: rgb(123, 123, 123);
   --color-text-alt: #fff;
   --color-text-gray: #6b7280;
   --color-border: rgb(0 0 0 / 6%);
@@ -24,7 +24,7 @@
   --font-family-heading: var(--font-family-base);
 
   /* Sizes */
-  --site-width: 850px;
+  --site-width: 1000px;
 
   /* Other */
   --border-radius: 12px;

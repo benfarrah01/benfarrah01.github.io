@@ -16,9 +16,9 @@ const Article = createClass({
             <small>
               <time
                 >${format(
-                  entry.getIn(['data', 'date'], new Date()),
-                  'MMMM dd, yyyy'
-                )}</time
+      entry.getIn(['data', 'date'], new Date()),
+      'MMMM dd, yyyy'
+    )}</time
               >
             </small>
           </p>
@@ -27,8 +27,8 @@ const Article = createClass({
           ${this.props.widgetFor('body')}
           <p class="tag-list">
             ${entry
-              .getIn(['data', 'tags'], [])
-              .map((tag) => html` <a class="tag" href="#" rel="tag">${tag}</a> `)}
+        .getIn(['data', 'tags'], [])
+        .map((tag) => html` <a class="tag" href="#" rel="tag">${tag}</a> `)}
           </p>
         </article>
       </main>
