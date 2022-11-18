@@ -1,0 +1,25 @@
+[
+  {
+    "url": "/posts/another-post/",
+    "title": "Another post page",
+    "index": "Another simple pageSince post pages are tagged they form collection can easily inspected iterated over See that home page"
+  }
+  ,
+  {
+    "url": "/posts/a-post/",
+    "title": "Spotify Song Recommendations Bot",
+    "index": "Note: need figure out how change size titleThis WIP page one projects SpotifySongRecommendationsBotNote: Pay attention code below &#39;ll something with later{ &quot;layout&quot; : &quot;layouts/postmd&quot; &quot;tags&quot; &quot;post&quot; &quot;templateEngineOverride&quot;: &quot;njkmd&quot;}"
+  }
+  ,
+  {
+    "url": "/about/",
+    "title": "Get Yours",
+    "index": "&#39;m sure what going with this page yet &#39;ll think something rest part templateHostingThis site deployed by hosted by NetlifyLatest deploy status: Oneclick deploy get your own instance Eleventy starter project cloned deploying Netlify very quickly just click button below follow instructions👆 Wait happens when that buttonGood question Here&#39;s will Netlify clone git repository into GitHub account asked required permissions add repo They&#39;ll create new Netlify configure use shiny repo Right away &#39;ll able changes simply pushing repoThat&#39;s really"
+  }
+  ,
+  {
+    "url": "/",
+    "title": "Benjamin Farrah",
+    "index": "9961 Kingsbury Lane North Huntingdon PA 156427249725888bfarrah0@gmailcomquestion: should have above info this sitePost pages pages found posts Another post page March 28 2018 Spotify Song Recommendations Bot December 14 2021 Links will add links other sites soon (Linkedin stuff like that)Ignore current links findthat URL shortener powered by Netlify Keeping Sass simple speedy Eleventy Adding search JAMstack site Contentful GitHub help make JAMstack_Conf reality Get more control over Netlify continuous deployment with deploy skipping"
+  }
+  ,]
