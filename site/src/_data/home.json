@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "title": "Benjamin Farrah",
+  "image": "src/assets/img/benpic.jpeg",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "Collaborative, resourceful, and goal-oriented computer-science student looking to apply knowledge to solve problems and increase efficiency. Passion for computer-science and object-oriented programming. "
 }
