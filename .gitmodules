@@ -1,0 +1,3 @@
+[submodule "eleventy-chirpy-blog-template"]
+	path = eleventy-chirpy-blog-template
+	url = git@github.com:allegheny-college-cmpsc-480-fall-2022/cmpsc-480-assignment-5-web-portfolio-benfarrah01.git
