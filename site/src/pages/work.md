@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle:
+subtitle: ""
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
